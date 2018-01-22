@@ -747,10 +747,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Bilder av noe vi vil",
+                "title": "Har du noen gang gått tom for vann?",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Noe om problemet",
+                "text": "Vår ungdomsbedrift har som mål å kunne gjøre det enklere å drikke rent vann, gjennom en sammenleggbar flaske med filter, med fokus på turgåere og utviklingsland",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"index.html#features14-u\" data-toolbar=\"-mbrBtnMove\">Dette vil vi utrette</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"bestill.html\" data-toolbar=\"-mbrBtnMove\">Kjøp nå</a>"
               },
               {
@@ -801,7 +801,7 @@
                 "title": "Hvordan funker det?",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Neders på flasken har vi plasert et filter&nbsp;",
+                "text": "Vi har fjernet bunnen av flasken og plasert et filter. Så når man folder ut flasken vil det skape et vakuum som suger vannet opp gjennom filteret og inn i flasken&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Dette vil vi utrette</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"bestill.html\" data-toolbar=\"-mbrBtnMove\">Kjøp nå</a>"
               }
             ]
