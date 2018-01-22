@@ -737,7 +737,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/20180121-122339-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20180121-122338-2000x1500.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
